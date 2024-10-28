@@ -1,0 +1,22 @@
+.top-header {
+    border: 2px solid blue;
+    height: 300px;
+    background-color: lightblue;
+    margin: 0 20px 0 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.MT-pic {
+    display: flex;
+    justify-content: center;
+}
+
+.pic {
+    border-radius: 250px;
+    background-color: beige;
+}
+
+h2 {
+    text-align: center;
+}
